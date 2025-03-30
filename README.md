@@ -1,13 +1,7 @@
 ![Logo UNAHUR](./UNAHUR.png)
 
-# Programación con objetos I
-## Presentación Personal
+# Joao Masgo
+Hola, mi nombre es Joao vivo en Ituzaingó y este es mi tercer cuatrimestre de la Tecnicatura en Programación y también estoy haciendo simultaneidad con la Tecnicatura de Inteligencia Artificial y estoy estudiando ingles aparte me gustaría por hablarlo fluido y entenderlo.
+Tengo dos Pugs adjunto foto abajo :x
 
-### Datos Personales
-- Mi nombre es:
-- Vivo en
-
-
-### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+![Branko Muruaga](./assets/BrankoMuruaga.png)
